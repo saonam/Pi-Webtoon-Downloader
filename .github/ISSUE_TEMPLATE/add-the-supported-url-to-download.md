@@ -2,7 +2,7 @@
 name: Add the supported URL to download
 about: Site Support Feedback
 title: ''
-labels: ADD_SUPPORTED_URL
+labels: ''
 assignees: ''
 
 ---
