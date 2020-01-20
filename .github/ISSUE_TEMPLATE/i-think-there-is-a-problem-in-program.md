@@ -10,8 +10,8 @@ assignees: ''
 # Program Bug Application Form
 
 ### Basic Information
-* Upload the error message or runtime error: 
-* If you show runtime error, please input runtime error's text: 
+* Tell us about that: 
 
-### Additional Information (Option)
-* If you happen error at in progress of downloading the webtoon, please input the URL:
+### Site Additional Information (Option)
+* Upload the error message or runtime error: 
+* If you show runtime error, please input runtime error's text:
